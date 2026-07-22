@@ -20,6 +20,26 @@
 | DuckDNS | Free DDNS for dynamic IP addresses |
 | OpenMediaVault | Network-attached storage (NAS) |
 
+##  WireGuard VPN
+
+![WireGuard](images/wireguard.png)
+
+##  Pi-hole
+
+![Pi-hole](images/pihole.png)
+
+##  Unbound
+
+![Unbound](images/unbound.png)
+
+##  UFW
+
+![UFW](images/ufw.png)
+
+##  DuckDNS
+
+![DuckDNS](images/duckdns.png)
+
 ##  Network Architecture
 
 Internet → Router (Virgin Media Hub 5) → Raspberry Pi 5 (xxx.xxx.x.xxx)
