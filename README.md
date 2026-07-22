@@ -34,11 +34,11 @@
 
 ##  UFW
 
-![UFW](images/ufw.png)
+![UFW](images/UFW.png)
 
 ##  DuckDNS
 
-![DuckDNS](images/duckdns.png)
+![DuckDNS](images/duckDNS.png)
 
 ##  Network Architecture
 
