@@ -22,7 +22,7 @@
 
 ##  Network Architecture
 
-Internet → Router (Virgin Media Hub 5) → Raspberry Pi 5 (192.168.0.224)
+Internet → Router (Virgin Media Hub 5) → Raspberry Pi 5 (xxx.xxx.x.xxx)
 
                                            ↓
                                            
