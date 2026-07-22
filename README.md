@@ -26,7 +26,7 @@
 
 ##  Pi-hole
 
-![Pi-hole](images/pihole.png)
+![Pi-hole](images/pi-hole.png)
 
 ##  Unbound
 
