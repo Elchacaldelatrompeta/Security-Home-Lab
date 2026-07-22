@@ -23,16 +23,27 @@
 ##  Network Architecture
 
 Internet → Router (Virgin Media Hub 5) → Raspberry Pi 5 (192.168.0.224)
+
                                            ↓
+                                           
                                       WireGuard VPN
+                                      
                                            ↓
+                                           
                                  Acceso remoto (móvil/laptop)
+                                 
                                            ↓
+                                           
                                       Pi-hole + Unbound
+                                      
                                            ↓
+                                           
                                       Firewall UFW
+                                      
                                            ↓
+                                           
                                       Red doméstica protegida
+                                      
 
 ##  Current Status
 
